@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "python-streamlit-contract"
 version = "0.1.0"
-description = ""
-authors = ["Philip Hoyos <philiphoyos@gmail.com>"]
+description = "Streamlit demo"
+authors = ["Philip Hoyos"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
