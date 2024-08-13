@@ -4,7 +4,6 @@ Created for demo purpose.
 
 ## Install
 ```bash
-cd pre-existing-project
 poetry init
 ```
 
